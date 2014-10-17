@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[mzy:home|Door43 (mzy)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-mzy|d43-mzy repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-mzy/archive/master.zip|d43-mzy.zip]]
+
+**Recent Changes**
+{{changes>ns = mzy}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/mzy|Ethnologue data]]
+
